@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on fullstack
 - 🌱 I’m currently learning Java, Nodejs
 - 👯 I’m looking to collaborate on FL - Software
-
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+- 
 <div align="center">
   <a href="https://github.com/Felipe-builder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-builder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
