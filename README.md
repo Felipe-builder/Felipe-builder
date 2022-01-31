@@ -12,9 +12,10 @@
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Felipe-builder&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-builder&layout=compact&langs_count=7&theme=aura"/>
 </div>
+  <br>
 <div align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="430em">
-  <img src="metrics.plugin.habits.charts.svg" alt="charts" width=430em>
+  <img src="metrics.plugin.habits.charts.svg" alt="charts" width=450em>
   <img src="/metrics.plugin.habits.facts.svg" alt="facts" width="430em">
 </div>
 
