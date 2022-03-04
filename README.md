@@ -1,3 +1,4 @@
+<video align="right" width="440" height="700" right="0px" src="https://i.imgur.com/7cClv0r.mp4">
 
 ### Hi! I am Felipe-builder 👋
 
@@ -7,6 +8,13 @@
 - 👯 I’m looking to collaborate on FL - Software
 <br>
 <br>
+
+### Skills:
+- Back-end: Java, NodeJs, Python
+- Front-end: React, Angular, (HTML, CSS, JavaScript)
+- Database: MongoDB, Postgres, MySQL
+- Framework: SpringBoot
+
 <div align="center">
   <a href="https://github.com/Felipe-builder">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Felipe-builder&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
