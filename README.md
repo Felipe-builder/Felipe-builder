@@ -1,5 +1,3 @@
-<img align="top" width="1616" height="180" right="0px" src="./pngwing.com.png">
-
 ### Hi! I am Felipe-builder 👋
 
 
