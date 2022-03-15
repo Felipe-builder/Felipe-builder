@@ -11,7 +11,9 @@
 - Back-end: Java, NodeJs, Python
 - Front-end: React, Angular, (HTML, CSS, JavaScript)
 - Database: MongoDB, Postgres, MySQL
-- Framework: SpringBoot
+- Framework: SpringBoot, Express
+- DevOps: AWS, AzureDevOps
+- Demais Tecnologias: Docker
 
 <div align="center">
   <a href="https://github.com/Felipe-builder">
