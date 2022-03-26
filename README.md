@@ -1,10 +1,8 @@
 ### Hi! I am Felipe-builder 👋
 
-
 - 🔭 I’m currently working on fullstack
 - 🌱 I’m currently learning Java, Nodejs
 - 👯 I’m looking to collaborate on FL - Software
-<br>
 <br>
 
 ### Skills:
@@ -17,14 +15,14 @@
 
 <div align="center">
   <a href="https://github.com/Felipe-builder">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Felipe-builder&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-builder&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-builder&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-builder&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <br>
 <div align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="430em">
   <img src="metrics.plugin.habits.charts.svg" alt="charts" width=450em>
-  <img src="/metrics.plugin.habits.facts.svg" alt="facts" width="430em">
+  <img src="/metrics.plugin.habits.facts.svg" alt="facts" width="330em">
 </div>
 
   <div style="display: inline_block"><br>
