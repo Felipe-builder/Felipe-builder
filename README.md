@@ -11,7 +11,7 @@
 - Database: MongoDB, Postgres, MySQL
 - Framework: SpringBoot, Express
 - DevOps: AWS, AzureDevOps
-- Demais Tecnologias: Docker, Kubernetes, Git, GitLab
+- Demais Tecnologias: Docker, Kubernetes, Git, GitLab, ApacheAirflow
 
 <div align="center">
   <a href="https://github.com/Felipe-builder">
