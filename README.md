@@ -1,8 +1,8 @@
 ### Hi! I am Felipe-builder 👋
 
-- 🔭 I’m currently working on fullstack
+- 🔭 I’m currently working on Back-End Analyst
 - 🌱 I’m currently learning Java, Nodejs
-- 👯 I’m looking to collaborate on FL - Software
+- 👯 I’m looking to collaborate on Semantix
 <br>
 
 ### Skills:
