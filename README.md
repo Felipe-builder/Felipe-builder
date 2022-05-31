@@ -28,7 +28,8 @@ I'm a JR backend developer working on API's and I like to study DevOps. My goal 
    <img align="center" alt="Felipe-Express" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   
   
-- Front-end: React
+- Front-end: 
+   <img align="center" alt="Felipe-Ang" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Felipe-Ang" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Felipe-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -47,13 +48,16 @@ I'm a JR backend developer working on API's and I like to study DevOps. My goal 
   <img align="center" alt="Felipe-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Felipe-GitLab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
   
-- Anothers: ApacheAirflow, Camunda
+- Anothers:  Camunda
   <img align="center" alt="Felipe-NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Felipe-Postman" height="50" width="60" src="https://api.iconify.design/simple-icons/postman.svg?color=%23ba3329" >
   <img align="center" alt="Felipe-Jira" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" >
   <img align="center" alt="Felipe-BitBucket" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" >
   <img align="center" alt="Felipe-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Felipe-Hiroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+  <img align="center" alt="Felipe-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="center" alt="Felipe-Bash" height="50" width="60" src="https://api.iconify.design/logos/airflow.svg">
+  
   
   <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/88/8c/f0/888cf080c292e8e8a7ca25dae2843418.jpg">
 </div>
