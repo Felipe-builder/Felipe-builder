@@ -5,7 +5,7 @@
 
 
 ### Hi! I am Felipe-builder 👋
-I'm a JR backend developer working on API's and I like to study DevOps. My goal is to gather as much knowledge as possible and refine my technique every day.<br>
+I'm a backend developer working on API's and I like to study DevOps. My goal is to gather as much knowledge as possible and refine my technique every day.<br>
 
 <!-- GitHub Stats -->
 ## GitHub Stats
